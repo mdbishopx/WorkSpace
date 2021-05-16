@@ -1,0 +1,13 @@
+package Mastermind;
+import java.util.Scanner;
+import java.util.Random;
+/*Easy mode for Mastermind 2
+ * Based on Mastermind from 20 Code Challenges
+ * From GCSE (9-1) Computer Science
+ * Easy mode: tells players what slot they got right
+ * Programmer: Matthew Bishop
+ */
+
+public class mastermindMedium {
+
+}
